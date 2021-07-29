@@ -37,7 +37,10 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.0",
+    "cypress": "^8.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/langley234/cypress-learn-module.git"
@@ -52,5 +55,5 @@
   "bugs": {
     "url": "https://github.com/langley234/cypress-learn-module/issues"
   },
-  "homepage": "https://github.com/langley234/cypress-learn-module#readme"
+  "homepage": "https://github.com/"
 }
